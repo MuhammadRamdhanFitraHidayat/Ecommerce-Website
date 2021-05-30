@@ -265,7 +265,7 @@ ul{
     margin-left: 20px;
     display: none;
 }
-/*------- media query for menu ------*/
+/*------------------------- media query for menu ------------------------*/
 @media only screen and (max-width: 800px){
     nav ul{
         position: absolute;
@@ -290,7 +290,7 @@ ul{
         cursor: pointer;
     }
 }
-/*------- all product page -------*/
+/*----------------------------------- all product page ----------------------------------------*/
 
 .row-2{
     justify-content: space-between;
